@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>179428945921-kdduoggs29lr1vchgq9qc6sv30prl4fb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.179428945921-kdduoggs29lr1vchgq9qc6sv30prl4fb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>179428945921-7qe3iq4lpvafif9a50tbfe69sqegsvsu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQ85oPxloC0AV3V7bR-Q2r0KMJTEG-Ass</string>
+	<key>GCM_SENDER_ID</key>
+	<string>179428945921</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FujiqWaitTime</string>
+	<key>PROJECT_ID</key>
+	<string>iphone-d9ed7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iphone-d9ed7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:179428945921:ios:9c9296f2a0f90e35</string>
+	<key>DATABASE_URL</key>
+	<string>https://iphone-d9ed7.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-3493086309094045~1673451317</string>
+</dict>
+</plist>
